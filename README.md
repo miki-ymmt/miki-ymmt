@@ -1,6 +1,8 @@
 ## ポートフォリオ: Travel Starter
-⭐️サービスURL: https://adventure-travel-starter.com/　<br>
-🧳リポジトリURL：https://github.com/miki-ymmt/travel_app
+サービスURL: https://adventure-travel-starter.com/　
+<br>
+<br>
+リポジトリURL：https://github.com/miki-ymmt/travel_app
 
 ![image](https://github.com/user-attachments/assets/18ca2c98-19cd-4d62-a04d-b8e4c8abe599)
 
@@ -12,11 +14,13 @@ Travel Starterを使うことで、海外旅行に行く際の不安を軽減し
 ###  ◼︎ アウトプット　<br>
 ☘️Zenn URL: https://zenn.dev/mockey 
 <br>
+<br>
 👒Qiita URL: https://qiita.com/miki-ymmt
+<br>
 <br>
 📔note URL: https://note.com/m_y127/
 
-
+<br>
 <p align="left">
   <a href="https://github.com/miki-ymmt/miki-ymmt/">
     <img src="https://komarev.com/ghpvc/?username=miki-ymmt" alt="miki-ymmt" />
