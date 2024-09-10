@@ -1,5 +1,5 @@
 ## ポートフォリオ: Travel Starter✈️
-サービスURL:  https://adventure-travel-starter.com/　
+サービスURL:  https://adventure-travel-starter.com/
 <br>
 <br>
 リポジトリURL：https://github.com/miki-ymmt/travel_app
