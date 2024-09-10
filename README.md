@@ -13,6 +13,8 @@ Travel Starterを使うことで、海外旅行に行く際の不安を軽減し
 ☘️Zenn URL: https://zenn.dev/mockey 
 <br>
 👒Qiita URL: https://qiita.com/miki-ymmt
+<br>
+🌿note URL: https://note.com/m_y127/
 
 
 <p align="left">
