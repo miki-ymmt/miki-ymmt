@@ -1,8 +1,18 @@
-## ポートフォリオ: Travel Starter✈️
+## ポートフォリオ: Travel Starter✈️　　　
+<p align="right">
+  <a href="https://github.com/miki-ymmt/miki-ymmt/">
+    <img src="https://komarev.com/ghpvc/?username=miki-ymmt" alt="miki-ymmt" />
+  </a>
+  <a href="https://github.com/miki-ymmt">
+    <img height="20" src="https://img.shields.io/github/followers/miki-ymmt?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 サービスURL:  https://adventure-travel-starter.com/
 <br>
 <br>
 リポジトリURL：https://github.com/miki-ymmt/travel_app
+
 
 ![image](https://github.com/user-attachments/assets/18ca2c98-19cd-4d62-a04d-b8e4c8abe599)
 
