@@ -31,14 +31,6 @@ Travel Starterを使うことで、海外旅行に行く際の不安を軽減し
 📔note URL: https://note.com/m_y127/
 
 <br>
-<p align="left">
-  <a href="https://github.com/miki-ymmt/miki-ymmt/">
-    <img src="https://komarev.com/ghpvc/?username=miki-ymmt" alt="miki-ymmt" />
-  </a>
-  <a href="https://github.com/miki-ymmt">
-    <img height="20" src="https://img.shields.io/github/followers/miki-ymmt?label=follow&logo=github&style=flat" />
-  </a>
-</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-ymmt&layout=compact&count_private=true&show_icons=true&theme=solarized-light" />
