@@ -21,6 +21,9 @@
 Travel Starterを使うことで、海外旅行に行く際の不安を軽減し、旅行のハードルを下げることを目指しています。
 <br>
 
+### ◼︎ アプリ内容　プレゼン資料　<br>
+https://www.canva.com/design/DAGRTHtXouU/DwBHuNuBx3GU9SSkcXVwVQ/edit?utm_content=DAGRTHtXouU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ###  ◼︎ アウトプット　<br>
 ☘️Zenn URL: https://zenn.dev/mockey 
 <br>
